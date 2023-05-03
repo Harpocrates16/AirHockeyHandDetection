@@ -1,2 +1,2 @@
 # AirHockeyHandDetection
- S6 Project RSET
+Use Python 3.7
