@@ -3,6 +3,10 @@ import cvzone
 from cvzone.HandTrackingModule import HandDetector
 import numpy as np
 
+def close_window(event, x, y, flags, param):
+    if event == cv2.EVENT_LBUTTONDOWN:
+        cv2.destroyAllWindows()
+
 cap = cv2.VideoCapture(0)
 cap.set(3, 1280)
 cap.set(4, 720)
@@ -23,6 +27,9 @@ speedX = 15
 speedY = 15
 gameOver = False
 score = [0, 0]
+
+cv2.namedWindow('Image')
+cv2.setMouseCallback('Image', close_window)
 
 while True:
     _, img = cap.read()
@@ -93,3 +100,6 @@ while True:
         gameOver = False
         score = [0, 0]
         imgGameOver = cv2.imread("Resources/gameOver.png")
+
+    if cv2.getWindowProperty('Image', cv2.WND_PROP_VISIBLE) < 1:
+        break
