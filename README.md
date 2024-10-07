@@ -10,7 +10,7 @@ Moreover, this project explores the therapeutic potential of the hand detection-
 interactive nature of the game offers a low-impact form of physical exercise and improves hand-eye coordination, making it valuable for patients’ recovery. The real-time hand tracking capabilities enable progress monitoring, and the database system stores game
 history and relevant statistics, providing valuable data for tracking patient improvement.
 
-By combining entertainment with therapeutic benefits, this project contributes to computer vision advancements and medical rehabilitation practices, showcasing the potential
+By combining entertainment with therapeutic benefits, this project contributes to computer vision advancements and medical rehabilitation practices, showcasing the potential
 of leveraging real-time hand tracking to enhance traditional tabletop games.
 This project is a combined effort done by Jonathan Antony, Joel Johnson, Krishnadas Balachandran and Joel Joseph Justin of class CSBeta Batch 2024, Rajagiri School of Engineering and Technology, Kakkanad.
 
