@@ -1,19 +1,37 @@
-# VirtualSliders - Air Hockey using Hand Detection
-This project investigates the implementation of computer vision techniques to enhance the gameplay experience of air hockey through hand detection. Traditional air hockey
-games require a physical table and equipment, limiting accessibility and socialization. To address this, we propose a computer vision-based solution utilizing real-time hand
-detection algorithms to track and interpret players’ hand movements.
+# VirtualSliders - Air Hockey Using Hand Detection
 
-The proposed system empowers players to enjoy the game without the need for physical infrastructure, making it cost-effective and dynamic. Additionally, gesture-based gameplay mechanics, such as power-ups and additional scoring opportunities, are introduced
-to enhance player immersion and interaction.
+## Project Overview
 
-Moreover, this project explores the therapeutic potential of the hand detection-based virtual air hockey game, particularly in physiotherapy and rehabilitation settings. The
-interactive nature of the game offers a low-impact form of physical exercise and improves hand-eye coordination, making it valuable for patients’ recovery. The real-time hand tracking capabilities enable progress monitoring, and the database system stores game
-history and relevant statistics, providing valuable data for tracking patient improvement.
+VirtualSliders is an innovative project that leverages computer vision techniques to revolutionize the gameplay experience of air hockey through real-time hand detection. Traditional air hockey requires a physical setup, limiting accessibility and social interaction. Our solution addresses these limitations by utilizing advanced hand detection algorithms to interpret players’ hand movements, enabling a fully digital and immersive experience.
 
-By combining entertainment with therapeutic benefits, this project contributes to computer vision advancements and medical rehabilitation practices, showcasing the potential
-of leveraging real-time hand tracking to enhance traditional tabletop games.
-This project is a combined effort done by Jonathan Antony, Joel Johnson, Krishnadas Balachandran and Joel Joseph Justin of class CSBeta Batch 2024, Rajagiri School of Engineering and Technology, Kakkanad.
+## Key Features
+
+- **Real-Time Hand Detection**: Employs sophisticated computer vision algorithms to track and interpret players' hand movements, facilitating seamless gameplay without the need for physical equipment.
+- **Gesture-Based Gameplay Mechanics**: Enhances player engagement through gesture-based interactions, including power-ups and additional scoring opportunities.
+- **Accessibility and Cost-Effectiveness**: Eliminates the need for physical infrastructure, making the game widely accessible and cost-effective.
+
+## Therapeutic Applications
+
+In addition to entertainment, VirtualSliders explores potential applications in **physiotherapy and rehabilitation**:
+
+- **Low-Impact Physical Exercise**: Provides a fun and engaging method for patients to perform exercises that aid recovery from hand or arm injuries.
+- **Enhanced Hand-Eye Coordination**: The interactive nature of the game assists in developing and improving motor skills.
+- **Progress Monitoring**: Real-time hand tracking capabilities allow for the effective monitoring of patient progress. The system's database stores game history and relevant statistics, offering valuable data for tracking rehabilitation outcomes.
+
+## Contributors
+
+This project is the result of a collaborative effort by:
+
+- [Jonathan Antony](https://github.com/Jonathan-Antony)
+- [Joel Johnson](https://github.com/joeljohnsonjj)
+- [Krishnadas Balachandran](https://github.com/Harpocrates16)
+- [Joel Joseph Justin](https://github.com/Joeyyyyyyy)
+
+**Class**: CSBeta Batch 2024  
+**Institution**: Rajagiri School of Engineering and Technology, Kakkanad
 
 ## Video Demonstration
-The folllowing link contains video demonstration of our project, note that it is a Hand Recording, which was done so to demonstrate the Multiplayer and networking capabilities of the Project.
-Link: https://youtu.be/WJ4CdqWIDJs 
+
+For a detailed demonstration of the project's capabilities, please refer to the video linked below. This demonstration includes a hand-recorded session showcasing the multiplayer and networking features of VirtualSliders.
+
+[Watch the video demonstration here](https://youtu.be/WJ4CdqWIDJs)
